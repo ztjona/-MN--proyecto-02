@@ -1,7 +1,7 @@
-Existe las siguientes3opciones de proyectos disponibles. 
+Existe 3 opciones de proyectos disponibles. 
 Las instrucciones para cada proyecto se encuentran en la carpeta respectiva.
 
-* [[D] Ahorro semanal](<[A] ahorro semanal/readme.md>)
+* [[D] población](<[D] población/readme.md>)
 * [[E] seguidor solar](<[E] seguidor solar/readme.md>)
 * [[F] nanodron](<[F] nanodron/readme.md>)
 
