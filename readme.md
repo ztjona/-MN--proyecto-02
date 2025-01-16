@@ -1,19 +1,19 @@
 Existe 3 opciones de proyectos disponibles. 
 Las instrucciones para cada proyecto se encuentran en la carpeta respectiva.
 
-* [[D] población](<[D] población/readme.md>)
+* [[D] impresora3D](<[D] impresora3D/readme.md>)
 * [[E] seguidor solar](<[E] seguidor solar/readme.md>)
-* [[F] nanodron](<[F] nanodron/readme.md>)
+* [[F] fractal](<[F] fractal/readme.md>)
 
 # Asignación de proyectos
-**[Importante]** Cada proyecto tiene un cupo máximo de 3 grupos de estudiantes. 
+**[Importante]** Cada proyecto tiene un cupo máximo de 4 estudiantes. 
 Para reservar el proyecto de su preferencia debe comunicarse lo más pronto posible con el profesor quien confirmará el cupo para su grupo. 
 En caso de no haber disponibilidad, el profesor le indicará las alternativas.
 
 # Cronograma
-* **Selección de proyectos:** hasta el 27 de julio de 2024
-* **Entrega:** 16 de agosto de 2024, 9:59 pm
-* **Presentación:** 17 de agosto de 2024, 11:00 am
+* **Selección de proyectos:** hasta el 22 de enero de 2025
+* **Entrega:** 11 de febrero de 2025
+* **Presentación:** 12 de febrero de 2025
 
 
 # Rúbrica de evaluación

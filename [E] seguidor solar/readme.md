@@ -1,32 +1,32 @@
 # Descripción
-La facultad de Ingeniería Mecánica dispone de varios sistemas sistemas de seguimiento solar, uno de ellos se muestra en la siguiente fotografía:
+La facultad de Ingeniería Mecánica dispone de varios sistemas de seguimiento solar, uno de ellos se muestra en la siguiente fotografía:
 
-<img src="Imagen de WhatsApp 2024-07-25 a las 15.55.52_bf8ee51a.jpg" width="600" />
+<img src="assets/Imagen-7.jpg" width="600" />
 
 Para este proyecto, se debe realizar el cálculo de los ángulos de control para un seguidor solar de 2 grados de libertad. 
 
 # Seguidor solar
-Un seguidor solar es un sistema de orientación para maximizar la exposición a la luz solar. Esto se consigue cuando el panel solar se orienta perpendicularmente a la luz solar incidente. Cuando el panel no se encuentra perpendicular, la cantidad de energía generada disminuye significativamente.
+Un seguidor solar es un sistema de orientación para maximizar la exposición a la luz solar. Esto se consigue cuando el panel se orienta perpendicularmente a la luz solar incidente. Cuando el panel no se encuentra perpendicular, la cantidad de energía generada disminuye significativamente.
 
-![alt text](image-6.png)
+![alt text](assets/image-6.png)
 
 Los ángulos de control en el seguidor solar de 2 grados de libertad son:
 
 1. $roll$: ángulo de giro alrededor del eje que mira al norte.
 
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
 2. $pitch$: ángulo de giro alrededor del eje que mira al este.
 
 [**IMPORTANTE**] A diferencia de otro tipo de seguidores solares, la EPN tiene un seguidor solar alrededor del ángulo $pitch$, en lugar del ángulo $yaw$. 
-![alt text](image-4.png)
+![alt text](assets/image-4.png)
 
 # Posición solar
 La posición del sol se mide con respecto a dos ángulos: 
 * $\theta$ que es el ángulo de **elevación** del sol con respecto a su proyección en la superficie,
 * $\alpha$ que es el ángulo **azimutal** de la proyección del sol en la superficie con respecto al norte.
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 
 Con el siguiente snippet de código puede obtener la posición del sol en un lugar (Campus EPN, por defecto) y fecha determinada (fecha y hora actual, por defecto).
