@@ -93,8 +93,8 @@ Observe que a partir de la iteración 5 el término $z_n$ no se modifica, por lo
 + Realice una animación y hacer zoom en cada rango dado.
 
 ## Preguntas de análisis
-	* ¿Cómo afecta la resolución de la cuadrícula al resultado visual?
-	* ¿Cuál es la resolución máxima de su programa?
+* ¿Cómo afecta la resolución de la cuadrícula al resultado visual?
+* ¿Cuál es la resolución máxima de su programa?
 
 
-<video controls  loop autoplay src="video_fractal.mp4" title="Title"></video>
+<video controls  loop autoplay src="assets/video_fractal.mp4" title="Title"></video>
