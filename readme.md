@@ -1,7 +1,7 @@
 Existe 3 opciones de proyectos disponibles. 
 Las instrucciones para cada proyecto se encuentran en la carpeta respectiva.
 
-* [[D] impresora3D](<[D] impresora3D/readme.md>)
+* [[D] impresora 3D](<[D] impresora3D/readme.md>)
 * [[E] seguidor solar](<[E] seguidor solar/readme.md>)
 * [[F] fractal](<[F] fractal/readme.md>)
 
